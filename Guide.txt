@@ -1,0 +1,4 @@
+Aplikacija je radjena u Laravel 5.3 Frameworku, tako da je potrebno popuniti .env file i pokrenuti composer install komandu.
+
+Aplikacija je live na sledecem linku: 
+http://hackathon.sveeg.com/
